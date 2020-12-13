@@ -12,7 +12,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Drone-Navigation-DL-Papers/blob/master/dr(3).pdf" style="text-decoration:none;">The One Hundred Layers Tiramisu:
 Fully Convolutional DenseNets for Semantic Segmentation</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Drone-Navigation-DL-Papers/blob/master/dr(4).pdf" style="text-decoration:none;">Pyramid Scene Parsing Network</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Drone-Navigation-DL-Papers/blob/master/dr(5).pdf" style="text-decoration:none;">Large Kernel Matters——
+<li><a target="_blank" href="https://github.com/manjunath5496/Drone-Navigation-DL-Papers/blob/master/dr(5).pdf" style="text-decoration:none;">Large Kernel Matters&minus;
 Improve Semantic Segmentation by Global Convolutional Network</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Drone-Navigation-DL-Papers/blob/master/dr(6).pdf" style="text-decoration:none;">Mask R-CNN</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Drone-Navigation-DL-Papers/blob/master/dr(7).pdf" style="text-decoration:none;">ICNet for Real-Time Semantic Segmentation on High-Resolution Images</a></li>
